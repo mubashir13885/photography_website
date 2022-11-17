@@ -1,0 +1,114 @@
+style1.css
+*{
+    margin: 0;
+    padding: 0;
+  
+    
+    
+}
+
+
+
+
+
+.background-image{
+    background-image: url('https://outsized.com/app/uploads/2020/06/black-and-silver-dslr-camera-on-map-3497123-scaled-e1595496885874.jpg');
+    
+    background-size: cover;
+    background-color: black;
+    
+    
+    background-color: black;
+    
+    height: 100vh;
+    
+}
+
+
+h1{
+    color: black;
+    width: 500px;
+    height: 150px;
+    
+    font-style: italic;
+    font-weight: 400;
+    font-size: 100px;
+    
+    border-radius: 50px;
+    
+    position: relative;
+    left: 100px; top: -10px;
+
+}
+
+
+.elephant
+{
+    background-image: url('https://cdn.mos.cms.futurecdn.net/uiCrUgVCf64TzEdTM8x9aD.jpg');
+    
+    width: 500px;
+    height: 300px;
+   
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    top: -100px;  left: 131px; 
+
+    
+}
+
+.bird{
+    background-image: url('https://www.eurotunnel.com/media/articles/wildlife%20in%20france/0-wildlife-in-france-mobile.jpeg?width=500&height=500&mode=crop');
+   
+    width: 300px;
+    height: 250px;
+    
+    
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    top: -300px;  left: 550px; 
+
+}
+.deer{
+    background-image: url('https://www.mass.gov/files/styles/embedded_full_width/public/deer.png?itok=gjRqooQz');
+    width: 300px;
+    height: 300px;
+    background-repeat: no-repeat;
+    
+    background-size: contain;
+   
+    position: relative;
+    left: 200px; bottom: 250px;
+    
+}
+.tiger{
+    background-image: url('https://images.herzindagi.info/image/2022/Apr/Indias-top-wildlife-sanctuaries.jpg');
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    width: 300px;
+    height: 300px;
+    background-size: contain;
+    position: relative;
+    bottom: 550px; left:550px;   
+
+    }
+
+.photo{
+    position: relative;
+    left: 700px;
+}    
+.elephant{
+    position: relative;
+    bottom: 60px; left: 60px;
+    background-size: contain;
+}
+.download.btn{
+    padding: 25px;
+    margin: 25px;
+    position: relative;
+    right: 1000px;
+
+}

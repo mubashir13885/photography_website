@@ -1,0 +1,25 @@
+style4.css
+body{
+    background-color:  lightgray;
+}
+.small_rec{
+    background-image: url('https://img.rawpixel.com/private/static/images/website/2022-05/pf-s124-ak-2615_2.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=c77077de245e55401603da8711ee87a7');
+    width: 500px;
+height: 250px;
+left: 319px;
+top: 158px;
+border-radius: 20px;
+
+}
+
+.small_rec{
+    position: relative;
+    top: 60px; right: 200 px; bottom: 25px;
+    margin: 70px;
+    padding: px;
+}
+.text{
+    position: relative;
+    top: 25px; left: 150px;
+
+}

@@ -1,0 +1,92 @@
+style.css
+.background-image{
+
+    
+    background-image: url('https://media.istockphoto.com/photos/the-photographer-picture-id182658709?k=20&m=182658709&s=612x612&w=0&h=XZXO9GMFuA66H7tESQtSPcDh_lScgV2vQ_G_ERsIHEs=');
+    background-repeat: no-repeat;
+    background-size: 700px;
+    background-attachment: fixed;
+    background-position: right;
+    
+    background-color: black;
+    padding: 0%;
+    margin: 0px;
+    position: 0px;
+    width: 1300px;
+    height: 540px;
+    left: 323px;
+    top: 0px;
+}
+
+p1{
+    width: 212px;
+    height: 52px;
+    left: 161px;
+    top: 94px;
+    color: #FFFFFF;
+    font-size: 30px;
+    }
+
+
+
+h1{
+    color: aliceblue;
+    width: 667.79px;
+    height: 220.44px;
+    right: 160px;
+    top: 318.85px;
+    font-family: 'Farro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 56px;
+    mix-blend-mode: hard-light;
+    transform: rotate(-12.02deg);
+}
+h3{
+    color: antiquewhite;
+    
+    width: 412px;
+    height: 70px;
+    left: 221px;
+    top: 100px;
+    }
+
+body{
+    background-color: black;
+}
+input{
+    position: 40px;
+}
+
+body{
+    display: grid;
+    grid-template-columns: repeat(24,1fr);
+}
+
+.wild{
+    
+    position: relative;
+    top:100px; left: 440px;
+    
+    }
+.w{
+    
+    
+    position: relative;
+    top:30px; left: 650px;
+}
+.tanda
+{
+    position: relative;
+    top: -75px; left: 900px;
+}
+.sg
+
+{
+    width: 70px;
+    height: 50px;
+    border-radius: 50px;
+    position: relative;
+    left: 1100px; top: 20px;
+}

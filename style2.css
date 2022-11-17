@@ -1,0 +1,64 @@
+style2.css
+*{
+    margin: 0;
+    padding: 0;
+  
+    
+    
+}
+
+
+
+h1{
+    color: black;
+}
+.background-image{
+    background-image: url('https://media.istockphoto.com/photos/valentines-day-card-ribbon-shaped-hearts-on-shiny-background-picture-id636264250?b=1&k=20&m=636264250&s=170667a&w=0&h=eSIm-dkmSP2ZmZBEopwEcWqnYn_2FFps_AFeQ4FxqpU=');
+    
+    background-repeat: no-repeat;
+    width: 1400px;
+    height: 700px;
+    background-size: 1500px;
+}
+
+    .pic1{
+       background-image: url("https://img.freepik.com/free-photo/beautiful-wedding-walk-nature-ukraine-sumy_8353-5800.jpg?w=2000");
+       background-repeat: no-repeat;
+       border-radius: 50px;
+        width: 300px;
+        height: 220px;
+        background-size: contain;
+        position: relative;
+        right: 400px; top: 25px;
+
+
+    }
+    .pic2{
+        background-image: url('https://imgix.bustle.com/uploads/image/2019/5/30/939d1229-54b1-41b6-a1a0-8b390d49bbd6-wedding_beach_couple.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg');
+       width: 400px;
+    height: 350px;
+    background-repeat: no-repeat;
+    
+    background-size: contain;
+    position: relative;
+    right: 500px; top: 50px;
+
+     
+    }  
+    .pic3
+    {
+      background-image: url('https://thumbs.dreamstime.com/b/happy-family-having-dinner-summer-garden-party-leisure-holidays-people-concept-festive-145201682.jpg');
+        width: 400px;
+        height: 250px;
+        background-size: contain;
+        position: relative;
+    right: 20px; bottom: 450px;
+
+
+    }
+
+.title{
+    position: relative;
+    left: 600px; top: 25px;
+    font-size: x-large;
+}

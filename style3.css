@@ -1,0 +1,68 @@
+style3.css
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+.header{
+    position: relative;
+    left: 1050px; top: 25px;
+    width: 200px;
+    height: 40px;
+}
+.background{
+    background-image: url('https://images.alphacoders.com/911/thumb-1920-911816.png');
+    width: 1350px;
+    height: 680px;
+}
+.pic1{
+    background-image: url('https://www.candorblog.com/wp-content/uploads/2017/05/travel-022-696x392.jpg');
+    background-repeat: no-repeat;
+    width: 400px;
+height: 300px;
+
+
+
+background-size: contain;
+position: relative;
+left: 600px;
+
+
+
+
+
+       
+}
+.pic2{
+    background-image: url('https://images.unsplash.com/photo-1528543606781-2f6e6857f318?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YWR2ZW50dXJlfGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+    border-radius: 50px;
+    width: 400px;
+height: 600px;
+
+
+
+background-repeat: no-repeat;
+background-position: center;
+
+background-size: contain;
+position: relative;
+left:150px; bottom: 350px;
+
+}
+.pic3{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/a/ab/Whitewater_Rafting_-_geograph.org.uk_-_1530594.jpg');
+    width: 300px;
+height: 288px;
+
+
+background-size: contain;
+background-repeat: no-repeat;
+position: relative;
+bottom: 650px; left: 600px;
+
+
+
+
+}
